@@ -2,16 +2,14 @@
 
 A full-stack web application for practicing listening and writing skills with AI-powered feedback.
 
+![Smart Practice Platform](https://img.shields.io/badge/React-18.2-blue) ![Node.js](https://img.shields.io/badge/Node.js-20-green) ![MongoDB](https://img.shields.io/badge/MongoDB-9.5-brightgreen) ![Tailwind](https://img.shields.io/badge/Tailwind-4.2-38B2AC)
+
+---
+
 <p align="center">
   <b>Practice Listening & Writing with Intelligent Automated Feedback</b><br/>
   <i>Full-Stack MERN Application | Internship Project | Production Ready</i>
 </p>
-
----
-
-![Smart Practice Platform](https://img.shields.io/badge/React-18.2-blue) ![Node.js](https://img.shields.io/badge/Node.js-20-green) ![MongoDB](https://img.shields.io/badge/MongoDB-9.5-brightgreen) ![Tailwind](https://img.shields.io/badge/Tailwind-4.2-38B2AC)
-
-Here’s a **recruiter-attracting, GitHub-optimized README** — designed to look **professional, modern, and standout** 👇
 
 ---
 
