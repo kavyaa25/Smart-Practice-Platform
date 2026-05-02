@@ -6,13 +6,6 @@ A full-stack web application for practicing listening and writing skills with AI
 
 ---
 
-<p align="center">
-  <b>Practice Listening & Writing with Intelligent Automated Feedback</b><br/>
-  <i>Full-Stack MERN Application | Internship Project | Production Ready</i>
-</p>
-
----
-
 ## 🎯 What Problem Does It Solve?
 
 Many learners struggle to get **instant feedback** on their listening and writing skills.
